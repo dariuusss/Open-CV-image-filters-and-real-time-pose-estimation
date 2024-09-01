@@ -1,0 +1,50 @@
+SIFT detectors execution time: 2154
+SIFT detected 16161 and 63541 keypoints
+FLANN matcher execution time: 866
+FLANN matched 1146 keypoints
+
+SIFT detectors execution time: 2022
+SIFT detected 16161 and 63541 keypoints
+BF matcher execution time: 3607
+BF matched 20 keypoints
+
+ORB detectors execution time: 3135
+ORB detected 500 and 500 keypoints
+BF matcher execution time: 0
+BF matched 20 keypoints
+
+SURF detectors execution time: 1049ms
+SURF detected 39748 and 35480 keypoints
+BF matcher execution time: 1780ms
+BF matched 20 keypoints
+
+FAST detectors execution time: 429 ms
+FAST detected 56786 and 142023 keypoints
+BF matcher execution time: 12726 ms
+BF matched 20 keypoints
+
+STAR detectors execution time: 549 ms
+STAR detected 343 and 730 keypoints
+BF matcher execution time: 0 ms
+BF matched 20 keypoints
+
+BRISK detectors execution time: 441 ms
+BRISK detected 3722 and 23582 keypoints
+BF matcher execution time: 143 ms
+BF matched 20 keypoints
+
+GFTT detectors execution time: 330 ms
+GFTT detected 964 and 981 keypoints
+BF matcher execution time: 1 ms
+BF matched 20 keypoints
+
+KAZE detectors execution time: 7598 ms
+KAZE detected 3012 and 2882 keypoints
+BF matcher execution time: 11 ms
+BF matched 20 keypoints
+
+AKAZE detectors execution time: 1338 ms
+AKAZE detected 3671 and 3988 keypoints
+BF matcher execution time: 56 ms
+BF matched 20 keypoints
+

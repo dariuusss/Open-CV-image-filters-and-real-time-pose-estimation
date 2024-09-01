@@ -1,0 +1,90 @@
+﻿  Computer Vision Plugin.cpp
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(165,49): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(165,49): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(165,49): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(165,49): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(165,49): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(166,49): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(166,49): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(166,49): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(166,49): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(166,49): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(167,49): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(167,49): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(167,49): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(167,49): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(167,49): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(183,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(184,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(184,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(184,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(184,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(184,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(185,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(185,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(185,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(185,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(185,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(186,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(186,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(186,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(186,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(186,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(192,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(192,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(192,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(192,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(192,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(193,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(194,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(194,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(194,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(194,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(194,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(195,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(195,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(195,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(195,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(195,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(201,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(201,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(201,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(201,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(201,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(202,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(202,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(202,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(202,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(202,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(203,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(204,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(204,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(204,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(204,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(204,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(208,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(208,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(208,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(208,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(208,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(209,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(209,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(209,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(209,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(209,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(210,57): warning C4244: '=': conversion from '_Tp' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(210,57): warning C4244:         with
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(210,57): warning C4244:         [
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(210,57): warning C4244:             _Tp=double
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(210,57): warning C4244:         ]
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(211,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(328,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(396,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\Computer Vision Plugin.cpp(454,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+     Creating library D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\x64\Release\Computer Vision Plugin.lib and object D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\x64\Release\Computer Vision Plugin.exp
+  Generating code
+  1 of 293 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Computer Vision Plugin.vcxproj -> D:\3dpub_final_boss\3d_cameras_part_2\3DUPB-main\3D Cameras\Computer Vision Plugin\x64\Release\Computer Vision Plugin.dll

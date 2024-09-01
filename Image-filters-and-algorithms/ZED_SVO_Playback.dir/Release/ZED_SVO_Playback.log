@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7292,16): warning C4251: 'sl::InitParameters::sdk_verbose_log_file': 'sl::String' needs to have dll-interface to be used by clients of 'sl::InitParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7344,19): warning C4251: 'sl::InitParameters::input': 'sl::InputType' needs to have dll-interface to be used by clients of 'sl::InitParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7366,16): warning C4251: 'sl::InitParameters::optional_settings_path': 'sl::String' needs to have dll-interface to be used by clients of 'sl::InitParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7377,16): warning C4251: 'sl::InitParameters::optional_opencv_calibration_file': 'sl::String' needs to have dll-interface to be used by clients of 'sl::InitParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7665,19): warning C4251: 'sl::PositionalTrackingParameters::initial_world_transform': 'sl::Transform' needs to have dll-interface to be used by clients of 'sl::PositionalTrackingParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7706,16): warning C4251: 'sl::PositionalTrackingParameters::area_file_path': 'sl::String' needs to have dll-interface to be used by clients of 'sl::PositionalTrackingParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7925,31): warning C4251: 'sl::SpatialMappingParameters::allowed_resolution': 'std::pair<float,float>' needs to have dll-interface to be used by clients of 'sl::SpatialMappingParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(7941,31): warning C4251: 'sl::SpatialMappingParameters::allowed_range': 'std::pair<float,float>' needs to have dll-interface to be used by clients of 'sl::SpatialMappingParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(8143,16): warning C4251: 'sl::RecordingParameters::video_filename': 'sl::String' needs to have dll-interface to be used by clients of 'sl::RecordingParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(8419,35): warning C4251: 'sl::ObjectDetectionRuntimeParameters::object_class_filter': 'std::vector<sl::OBJECT_CLASS,std::allocator<sl::OBJECT_CLASS>>' needs to have dll-interface to be used by clients of 'sl::ObjectDetectionRuntimeParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(8425,39): warning C4251: 'sl::ObjectDetectionRuntimeParameters::object_class_detection_confidence_threshold': 'std::map<sl::OBJECT_CLASS,float,std::less<sl::OBJECT_CLASS>,std::allocator<std::pair<const sl::OBJECT_CLASS,float>>>' needs to have dll-interface to be used by clients of 'sl::ObjectDetectionRuntimeParameters'
+C:\Program Files (x86)\ZED SDK\include\sl\Camera.hpp(8679,36): warning C4251: 'sl::RegionOfInterestParameters::auto_apply_module': 'std::unordered_set<sl::MODULE,std::hash<sl::MODULE>,std::equal_to<sl::MODULE>,std::allocator<sl::MODULE>>' needs to have dll-interface to be used by clients of 'sl::RegionOfInterestParameters'
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\utils.hpp(54,20): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\utils.hpp(79,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\utils.hpp(79,35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(84,76): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(84,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(93,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(93,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(98,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\main.cpp(98,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ZED_SVO_Playback.vcxproj -> D:\3dpub_final_boss\3d cameras\samples\recording\playback\external_data\cpp\Release\ZED_SVO_Playback.exe

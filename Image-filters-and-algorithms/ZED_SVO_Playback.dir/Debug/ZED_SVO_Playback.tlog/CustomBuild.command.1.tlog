@@ -1,0 +1,10 @@
+^D:\3DPUB_FINAL_BOSS\3D CAMERAS\SAMPLES\RECORDING\PLAYBACK\EXTERNAL_DATA\CPP\CMAKELISTS.TXT
+setlocal
+D:\cmake\bin\cmake.exe "-SD:/3dpub_final_boss/3d cameras/samples/recording/playback/external_data/cpp" "-BD:/3dpub_final_boss/3d cameras/samples/recording/playback/external_data/cpp" --check-stamp-file "D:/3dpub_final_boss/3d cameras/samples/recording/playback/external_data/cpp/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
