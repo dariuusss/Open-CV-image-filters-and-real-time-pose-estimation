@@ -515,16 +515,14 @@ void Filter::segmentarePlanara(cv::Vec4f* normalMeasure, cv::Vec4f* normalProces
 					regions[0].nr_pixels = 1;
 					regions[0].avg_normal = normalMeasure[offset];
 					matrix[offset] = 0;
-				}
-				else {
+				} else {
 					idx = cost(normalMeasure, width, height, y, x, regions, matrix);
 					if (idx == -1) { // regiune noua
 						nr_regions++;
 						regions[nr_regions - 1].nr_pixels = 1;
 						regions[nr_regions - 1].avg_normal = normalMeasure[offset];
 						matrix[offset] = nr_regions - 1;
-					}
-					else { // facem merge
+					} else { // facem merge
 						matrix[offset] = matrix[idx];
 						region_idx = matrix[idx];
 						regions[region_idx].avg_normal = (regions[region_idx].avg_normal * regions[region_idx].nr_pixels + normalMeasure[offset]) /
