@@ -185,8 +185,7 @@ extern "C"
 			q2.y = (rm2.at<double>(0, 2) - rm2.at<double>(2, 0)) / S;
 			q2.z = (rm2.at<double>(1, 0) - rm2.at<double>(0, 1)) / S;
 
-		}
-		else if (rm2.at<double>(0, 0) > rm2.at<double>(1, 1) and rm2.at<double>(0, 0) > rm2.at<double>(2, 2)) {
+		} else if (rm2.at<double>(0, 0) > rm2.at<double>(1, 1) and rm2.at<double>(0, 0) > rm2.at<double>(2, 2)) {
 
 			S = sqrt(1.0 + rm2.at<double>(0, 0) - rm2.at<double>(1, 1) - rm2.at<double>(2, 2)) * 2;
 			q2.w = (rm2.at<double>(2, 1) - rm2.at<double>(1, 2)) / S;
@@ -194,8 +193,7 @@ extern "C"
 			q2.y = (rm2.at<double>(0, 1) + rm2.at<double>(1, 0)) / S;
 			q2.z = (rm2.at<double>(0, 2) + rm2.at<double>(2, 0)) / S;
 
-		}
-		else if (rm2.at<double>(1, 1) > rm2.at<double>(2, 2)) {
+		} else if (rm2.at<double>(1, 1) > rm2.at<double>(2, 2)) {
 
 			S = sqrt(1.0 + rm2.at<double>(1, 1) - rm2.at<double>(0, 0) - rm2.at<double>(2, 2)) * 2;
 			q2.w = (rm2.at<double>(0, 2) - rm2.at<double>(2, 0)) / S;
